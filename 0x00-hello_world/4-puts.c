@@ -3,12 +3,17 @@
  *main-begin of program
  *return value 0
  */
-
 int main(void)
+/**
+ *main -beginning of program
+ */
 {
+  
 puts("\"Programming is like building a multilingual puzzle\n");
+
 /**
  *return value to main 0
  */
-return (0);
+
+ return (0);
 }
