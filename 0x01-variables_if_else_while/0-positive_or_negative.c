@@ -2,7 +2,12 @@
 #include <time.h>
 #inclue <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ *main -prin number and dertime
+ *      wheter positive or negative
+ *
+ * return always 0
+ */
 int main(void)
 {
 	int n;
@@ -12,18 +17,17 @@ int main(void)
 
 if (n>0)
 {
-printf("the number is positive");
+  printf("%d is positive\n", n);
  
 }
-else if (n==0)
+else if (n<0)
 {
-printf("the number is 0");
+  printf("%d is negative\n", n);
 
 }
 else
 {
-printf("the number is negative");
-
+  printf("%d number is zero\n", n);
 }
 	
 return (0);
