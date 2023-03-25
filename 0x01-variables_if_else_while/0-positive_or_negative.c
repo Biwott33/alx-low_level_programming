@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#inclue <stdio.h>
+#include <stdio.h>
 
 /**
  *main -prin number and dertime
