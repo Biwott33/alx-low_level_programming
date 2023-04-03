@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ *main :program starts
+ *
+ *put put putchar followed by newline
+ *retun valu0 on sucess
+ *
+ */
 
 int main(void)
 {
