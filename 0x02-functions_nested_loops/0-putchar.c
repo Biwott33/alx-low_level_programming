@@ -2,9 +2,8 @@
 
 /**
  *main :program starts
- *
  *put put putchar followed by newline
- *retun valu0 on sucess
+ *retun value0 on sucess
  *
  */
 
