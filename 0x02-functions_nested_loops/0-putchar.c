@@ -8,7 +8,7 @@
  */
 
 int _putchar(char c)
-char c = "_putchar"
+
 {
   return (0);
 }
