@@ -1,14 +1,8 @@
-#include "main.h"
+#include <stdio.h>
+#inclde <main.h>
 
-/**
- *main -print  out put char
- *
- * return 0
- *
- */
-
-int _putchar(char c)
-
+int main(void)
 {
-  return (0);
+putchar('\n');
+return (0);
 }
