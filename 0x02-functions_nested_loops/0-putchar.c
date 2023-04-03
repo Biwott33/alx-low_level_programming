@@ -1,5 +1,5 @@
 #include <stdio.h>
-#inclde <main.h>
+#include <main.h>
 
 int main(void)
 {
