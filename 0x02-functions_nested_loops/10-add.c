@@ -1,4 +1,4 @@
-#include <main.h>
+#include <MAIN_H>
 
 /**
  * add - the fuction that adds the
