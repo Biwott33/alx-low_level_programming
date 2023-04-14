@@ -1,8 +1,5 @@
-#ifndef MAIN.H
-#def MAIN.H
-
-
-
+#ifndef main.h
+#def main.h
 
 int _putchar(char c);
 int _islower(int c);
