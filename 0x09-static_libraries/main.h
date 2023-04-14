@@ -1,5 +1,5 @@
-#ifndef "MAIN.H"
-#def "MAIN.H"
+#ifndef MAIN.H
+#def MAIN.H
 
 
 
