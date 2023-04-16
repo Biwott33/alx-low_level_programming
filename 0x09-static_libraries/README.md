@@ -1,1 +1,1 @@
-creating and manipulating static libraries
+practise of static libraris
