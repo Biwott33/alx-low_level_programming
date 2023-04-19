@@ -1,1 +1,0 @@
-practise of static lbraries
