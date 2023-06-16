@@ -1,1 +1,1 @@
-this is a practise of recurrions
+practise of recurrsion
