@@ -13,11 +13,11 @@ int i, j= 0;
 
 if (str == NULL)
 return (NULL);
-j = 0;
-while (str[j] != '\0')
-j++;
+i = 0;
+while (str[i] != '\0')
+i++;
 
-a = malloc(sizeof(char) * (j + 1));
+a = malloc(sizeof(char) * (i + 1));
 
 if (a == NULL)
 return (NULL);
